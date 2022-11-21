@@ -1,4 +1,4 @@
-# Peer_To_Peer_Lending_Project
+# Peer_To_Peer_Lending_Model_Project
  In this Python Script we build Peer To Peer Lending Model that advises investors whether or not to invest in a given loan.
 The project was conducted as part of a semestral course in Reichman university in Business & Data Analytics program and got the highest score among 7 teams working on the same project.
 
